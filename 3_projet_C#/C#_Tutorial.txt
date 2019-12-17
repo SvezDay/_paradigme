@@ -1,0 +1,19 @@
+:: Créer une fichier.cs
+> importer les dépendances
+    - using System;
+    - using ...
+> Déclarer un namespace // cela équivaut à un micro-programme
+    namespace NomDuNamespace {
+
+    }
+
+> Déclarer une ou plusieur classe dans le name space, dont une avec une fonction main
+        class NomDeLaClasse {
+            static void main(String[] args){
+                Console.WriteLine("Hello);
+                Console.ReadKey(); // Pour éviter que le programme s'éteingne aussitôt après l'écriture
+            }
+        }
+
+> Compilation
+    
