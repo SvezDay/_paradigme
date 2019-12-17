@@ -1,0 +1,11 @@
+/home/rud/code/_paradigme/ConsoleAppFormes/obj/Debug/netcoreapp3.1/ConsoleAppFormes.csprojAssemblyReference.cache
+/home/rud/code/_paradigme/ConsoleAppFormes/obj/Debug/netcoreapp3.1/ConsoleAppFormes.AssemblyInfoInputs.cache
+/home/rud/code/_paradigme/ConsoleAppFormes/obj/Debug/netcoreapp3.1/ConsoleAppFormes.AssemblyInfo.cs
+/home/rud/code/_paradigme/ConsoleAppFormes/bin/Debug/netcoreapp3.1/ConsoleAppFormes
+/home/rud/code/_paradigme/ConsoleAppFormes/bin/Debug/netcoreapp3.1/ConsoleAppFormes.deps.json
+/home/rud/code/_paradigme/ConsoleAppFormes/bin/Debug/netcoreapp3.1/ConsoleAppFormes.runtimeconfig.json
+/home/rud/code/_paradigme/ConsoleAppFormes/bin/Debug/netcoreapp3.1/ConsoleAppFormes.runtimeconfig.dev.json
+/home/rud/code/_paradigme/ConsoleAppFormes/bin/Debug/netcoreapp3.1/ConsoleAppFormes.dll
+/home/rud/code/_paradigme/ConsoleAppFormes/bin/Debug/netcoreapp3.1/ConsoleAppFormes.pdb
+/home/rud/code/_paradigme/ConsoleAppFormes/obj/Debug/netcoreapp3.1/ConsoleAppFormes.dll
+/home/rud/code/_paradigme/ConsoleAppFormes/obj/Debug/netcoreapp3.1/ConsoleAppFormes.pdb

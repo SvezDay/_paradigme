@@ -1,0 +1,11 @@
+/home/rud/code/_paradigme/Tableaux/obj/Debug/netcoreapp3.1/Tableaux.csprojAssemblyReference.cache
+/home/rud/code/_paradigme/Tableaux/obj/Debug/netcoreapp3.1/Tableaux.AssemblyInfoInputs.cache
+/home/rud/code/_paradigme/Tableaux/obj/Debug/netcoreapp3.1/Tableaux.AssemblyInfo.cs
+/home/rud/code/_paradigme/Tableaux/bin/Debug/netcoreapp3.1/Tableaux
+/home/rud/code/_paradigme/Tableaux/bin/Debug/netcoreapp3.1/Tableaux.deps.json
+/home/rud/code/_paradigme/Tableaux/bin/Debug/netcoreapp3.1/Tableaux.runtimeconfig.json
+/home/rud/code/_paradigme/Tableaux/bin/Debug/netcoreapp3.1/Tableaux.runtimeconfig.dev.json
+/home/rud/code/_paradigme/Tableaux/bin/Debug/netcoreapp3.1/Tableaux.dll
+/home/rud/code/_paradigme/Tableaux/bin/Debug/netcoreapp3.1/Tableaux.pdb
+/home/rud/code/_paradigme/Tableaux/obj/Debug/netcoreapp3.1/Tableaux.dll
+/home/rud/code/_paradigme/Tableaux/obj/Debug/netcoreapp3.1/Tableaux.pdb

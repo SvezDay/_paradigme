@@ -1,0 +1,11 @@
+/home/rud/code/_paradigme/Guess/bin/Debug/netcoreapp3.1/Guess
+/home/rud/code/_paradigme/Guess/bin/Debug/netcoreapp3.1/Guess.deps.json
+/home/rud/code/_paradigme/Guess/bin/Debug/netcoreapp3.1/Guess.runtimeconfig.json
+/home/rud/code/_paradigme/Guess/bin/Debug/netcoreapp3.1/Guess.runtimeconfig.dev.json
+/home/rud/code/_paradigme/Guess/bin/Debug/netcoreapp3.1/Guess.dll
+/home/rud/code/_paradigme/Guess/bin/Debug/netcoreapp3.1/Guess.pdb
+/home/rud/code/_paradigme/Guess/obj/Debug/netcoreapp3.1/Guess.csprojAssemblyReference.cache
+/home/rud/code/_paradigme/Guess/obj/Debug/netcoreapp3.1/Guess.AssemblyInfoInputs.cache
+/home/rud/code/_paradigme/Guess/obj/Debug/netcoreapp3.1/Guess.AssemblyInfo.cs
+/home/rud/code/_paradigme/Guess/obj/Debug/netcoreapp3.1/Guess.dll
+/home/rud/code/_paradigme/Guess/obj/Debug/netcoreapp3.1/Guess.pdb
