@@ -1,0 +1,11 @@
+/home/rud/code/_paradigme/Polymorphisme/obj/Debug/netcoreapp3.1/Polymorphisme.csprojAssemblyReference.cache
+/home/rud/code/_paradigme/Polymorphisme/obj/Debug/netcoreapp3.1/Polymorphisme.AssemblyInfoInputs.cache
+/home/rud/code/_paradigme/Polymorphisme/obj/Debug/netcoreapp3.1/Polymorphisme.AssemblyInfo.cs
+/home/rud/code/_paradigme/Polymorphisme/bin/Debug/netcoreapp3.1/Polymorphisme
+/home/rud/code/_paradigme/Polymorphisme/bin/Debug/netcoreapp3.1/Polymorphisme.deps.json
+/home/rud/code/_paradigme/Polymorphisme/bin/Debug/netcoreapp3.1/Polymorphisme.runtimeconfig.json
+/home/rud/code/_paradigme/Polymorphisme/bin/Debug/netcoreapp3.1/Polymorphisme.runtimeconfig.dev.json
+/home/rud/code/_paradigme/Polymorphisme/bin/Debug/netcoreapp3.1/Polymorphisme.dll
+/home/rud/code/_paradigme/Polymorphisme/bin/Debug/netcoreapp3.1/Polymorphisme.pdb
+/home/rud/code/_paradigme/Polymorphisme/obj/Debug/netcoreapp3.1/Polymorphisme.dll
+/home/rud/code/_paradigme/Polymorphisme/obj/Debug/netcoreapp3.1/Polymorphisme.pdb
