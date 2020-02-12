@@ -1,0 +1,14 @@
+<html>
+    <button onClick="myfct()">function</button>
+
+    <p id="demo">0</p>
+    <script>
+        var add = (function(){
+            var counter = 0;
+            return function(){return counter++;}
+        })()
+        function myfct(){
+            document.getElementById('demo').innerHTML = add();
+        }
+    </script>
+</html>
